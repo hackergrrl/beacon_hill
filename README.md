@@ -5,6 +5,8 @@ It's pointed at the bay, so you can ships coming and going.
 
 Refreshes every 5 minutes by default. (It's just a `sleep` command, so it's easy to change.)
 
+![photo from beacon hill](./screenshot.jpg)
+
 ## dependencies
 
 Requires
